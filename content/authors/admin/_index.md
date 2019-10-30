@@ -32,10 +32,13 @@ education:
     year: expected 2020
   - course: MS in Aerospace Engineering
     institution: University of Maryland
-    year: 2013
-  - course: BSc in Electrical Engineering 
+    year: 2012
+  - course: BS in Electrical Engineering 
     institution: University of Maryland
     year: 2008
+    course: AS in Electrical Engineering 
+    institution: Montgomery College, Rockville, MD
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -53,7 +56,7 @@ social:
   link: https://scholar.google.com/citations?user=8Xo2GPoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/snoozebot3000
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
