@@ -2,8 +2,13 @@
 # An instance of the Contact widget.
 widget: contact
 
+<<<<<<< HEAD
 # This file represents a page section.
 headless: true
+=======
+title = "Contact"
+subtitle = "How to get into contact with me"
+>>>>>>> my-site
 
 # Order that this section appears on the page.
 weight: 130

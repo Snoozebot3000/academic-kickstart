@@ -3,8 +3,15 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+<<<<<<< HEAD
 # This file represents a page section.
 headless: true
+=======
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
+weight = 60  # Order that this section will appear.
+>>>>>>> my-site
 
 # Order that this section appears on the page.
 weight: 60
